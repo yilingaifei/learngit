@@ -35,4 +35,4 @@ $ git branch dev
 $ git checkout dev
 Switched to branch 'dev'
 
-Creating a new branch is quick.
+Creating a new branch is quick and light.
